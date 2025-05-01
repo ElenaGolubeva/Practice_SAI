@@ -1,0 +1,62 @@
+[
+    {
+        "request_id": "cae9dc96-0615-4140-b157-97de2b7ec3a1",
+        "timestamp": "2025-05-01T18:00:27.293042",
+        "original_file": "static/uploads\\cae9dc96-0615-4140-b157-97de2b7ec3a1.jpg",
+        "result_file": "static/results\\cae9dc96-0615-4140-b157-97de2b7ec3a1_result.jpg",
+        "is_video": false,
+        "stats": {
+            "total_chairs": 8,
+            "free_chairs": 8,
+            "occupied_chairs": 0,
+            "occupancy_rate": 0.0,
+            "processing_time": "2025-05-01T18:00:27.293042",
+            "image_size": "1024x768"
+        }
+    },
+    {
+        "request_id": "e1b2c50b-607e-4b5b-9d5f-0890e8ed88c6",
+        "timestamp": "2025-05-01T18:03:03.287450",
+        "original_file": "static/uploads\\e1b2c50b-607e-4b5b-9d5f-0890e8ed88c6.png",
+        "result_file": "static/results\\e1b2c50b-607e-4b5b-9d5f-0890e8ed88c6_result.jpg",
+        "is_video": false,
+        "stats": {
+            "total_chairs": 10,
+            "free_chairs": 7,
+            "occupied_chairs": 3,
+            "occupancy_rate": 0.3,
+            "processing_time": "2025-05-01T18:03:03.286002",
+            "image_size": "989x660"
+        }
+    },
+    {
+        "request_id": "80cddb18-415b-4185-9b55-08a6897ead3d",
+        "timestamp": "2025-05-01T18:04:39.925288",
+        "original_file": "static/uploads\\80cddb18-415b-4185-9b55-08a6897ead3d.png",
+        "result_file": "static/results\\80cddb18-415b-4185-9b55-08a6897ead3d_result.jpg",
+        "is_video": false,
+        "stats": {
+            "total_chairs": 10,
+            "free_chairs": 7,
+            "occupied_chairs": 3,
+            "occupancy_rate": 0.3,
+            "processing_time": "2025-05-01T18:04:39.924039",
+            "image_size": "989x660"
+        }
+    },
+    {
+        "request_id": "d23f7758-cf9c-4db3-8928-bdb9f5843614",
+        "timestamp": "2025-05-01T18:05:31.492591",
+        "original_file": "static/uploads\\d23f7758-cf9c-4db3-8928-bdb9f5843614.jpg",
+        "result_file": "static/results\\d23f7758-cf9c-4db3-8928-bdb9f5843614_result.jpg",
+        "is_video": false,
+        "stats": {
+            "total_chairs": 8,
+            "free_chairs": 8,
+            "occupied_chairs": 0,
+            "occupancy_rate": 0.0,
+            "processing_time": "2025-05-01T18:05:31.491573",
+            "image_size": "1024x768"
+        }
+    }
+]
